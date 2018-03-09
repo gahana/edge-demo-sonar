@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="sonar-webhook-api">
+    <Basepaths>/sonar/webhook</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1520566600818</CreatedAt>
+    <CreatedBy>defaultUser</CreatedBy>
+    <Description></Description>
+    <DisplayName>sonar-webhook-api</DisplayName>
+    <LastModifiedAt>1520566600818</LastModifiedAt>
+    <LastModifiedBy>defaultUser</LastModifiedBy>
+    <Policies>
+        <Policy>KVM-StoreInfo</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
